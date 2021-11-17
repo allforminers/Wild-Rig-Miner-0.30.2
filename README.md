@@ -1,6 +1,12 @@
 # WildRig Multi
 multi algo miner for AMD & NVIDIA
 
+git clone https://github.com/allforminers/Wild-Rig-Miner-0.30.2.git
+
+cd Wild-Rig-Miner-0.30.2
+
+unzip wildrig-multi-linux-0.30.2.zip
+
 # KNOWN ISSUES
 - rejected shares on Vega gpu's for progpow family of algorithms if use kernel 2(kernel 1 works fine)
 - broken mtp algorithm under Linux, miner can't find any share
